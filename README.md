@@ -11,10 +11,15 @@
 <hr/>
 
 
-## ⚡ What I’m Strong At 
+
+## ⚡ What I’m Strong At
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,airflow,spark,python,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,python,postgres,spark&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ETL-Data%20Pipelines-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -23,7 +28,7 @@
 
 ---
 
-## 🧰 Skills & Tools (Resume-Aligned)
+## 🧰 Skills & Tools 
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
