@@ -45,7 +45,7 @@
 
 ---
 
-## ⭐ Featured Projects (Recruiter-Friendly)
+## ⭐ Featured Projects 
 
 ### 🏥 Healthcare Insurance Data Engineering Capstone (AWS)
 🔗 **Repo:** https://github.com/rosubb/healthcare-insurance-data-engineering-capstone  
@@ -92,7 +92,6 @@
     <img src="https://img.shields.io/badge/Gmail-rosubb1225%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
----
 
 
 
